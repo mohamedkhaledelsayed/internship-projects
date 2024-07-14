@@ -1,0 +1,6 @@
+<?php
+// resources/lang/en/routes.php
+return [
+    "en/about"    =>  "about",
+    "article"  =>  "article/{article}",
+];
